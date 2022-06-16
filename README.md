@@ -25,11 +25,11 @@ Working with accessibility and making sure that the HoriSEOn web application is 
 
 ![alt text](assets/images/mock.png)
 
-### Code Before
+### Code Before Example
 
 ![alt text](assets/images/code_snippet2.png)
 
-### Refactored Code
+### Refactored Code Example
 
 ![alt text](assets/images/code_snippet1.png)
 
@@ -39,7 +39,7 @@ Credits to University of California, Berkeley.
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
