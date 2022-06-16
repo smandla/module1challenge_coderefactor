@@ -21,7 +21,17 @@ Working with accessibility and making sure that the HoriSEOn web application is 
 
 ## Usage
 
+### Website Image
+
 ![alt text](assets/images/mock.png)
+
+### Code Before
+
+![alt text](assets/images/code_snippet2.png)
+
+### Refactored Code
+
+![alt text](assets/images/code_snippet1.png)
 
 ## Credits
 
