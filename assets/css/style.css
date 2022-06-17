@@ -3,7 +3,7 @@
   padding: 0;
   margin: 0;
 }
-
+/* Updated the selectors to select correct semantic HTML elements and not the non-semantic HTML elements. */
 body {
   background-color: #d9dcd6;
 }
@@ -32,7 +32,7 @@ header nav {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
-
+/* Removes bullet points from list and have updated the styling to select the tags. */
 header nav ul {
   list-style-type: none;
 }
